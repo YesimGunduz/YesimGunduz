@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&lines=Hi+I'm+Yeşim+Gündüz;Full+Stack+Software+Engineer;Flutter+%7C+ASP.NET+Core;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Flutter+%7C+ASP.NET+Core;Software+Engineer" />
 <br/>
 
 <a href="mailto:yesimgunduz366@gmail.com">
