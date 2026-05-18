@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=900&color=FF0055&center=true&vCenter=true&width=900&lines=Hi+I'm+Yeşim+Gündüz+%F0%9F%91%8B;Full+Stack+Software+Developer;Flutter+%7C+ASP.NET+Core+%7C+Firebase;Building+scalable+and+clean+systems+%F0%9F%9A%80" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&lines=Hi+I'm+Yeşim+Gündüz;Full+Stack+Software+Engineer;Flutter+%7C+ASP.NET+Core;Building+Scalable+Systems" />
 <br/>
 
 <a href="mailto:yesimgunduz366@gmail.com">
